@@ -11,9 +11,14 @@
       "price": 12000.5
     },
     {
-      "name": "Caderno",
-      "price": "10.98",
-      "id": 3
+      "name": "Lápis",
+      "price": 1.25,
+      "id": 5
+    },
+    {
+      "name": "Teste1",
+      "price": 50.09,
+      "id": 6
     }
   ]
 }
